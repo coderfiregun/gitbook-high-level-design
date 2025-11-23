@@ -1,8 +1,6 @@
 # Case Studies
 
-Ah, NOW I get it! You want **deep technical blog posts and papers** - the real engineering meat, not interview prep fluff.
-
-Here are **MUST-READ production system deep-dives**:
+**MUST-READ production system deep-dives**:
 
 ## Real Engineering Deep-Dives (Beyond Interview Prep)
 
