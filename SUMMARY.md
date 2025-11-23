@@ -3,3 +3,4 @@
 * [High Level Design](README.md)
   * [Resources](high-level-design/resources.md)
   * [Tech Tools - Prerequisite](high-level-design/tech-tools-prerequisite.md)
+  * [Case Studies](high-level-design/case-studies.md)
