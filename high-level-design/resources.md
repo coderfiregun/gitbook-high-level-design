@@ -14,6 +14,7 @@ Learning<br>
 * [https://codemia.io/system-design](https://codemia.io/system-design)
 * [https://bytebytego.com/](https://bytebytego.com/)
 * [https://bytebytego.com/guides/](https://bytebytego.com/guides/)
+* [https://javarevisited.blogspot.com/search/label/design%20patterns?\&max-results=6](https://javarevisited.blogspot.com/search/label/design%20patterns?\&max-results=6)
 
 
 
