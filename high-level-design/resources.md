@@ -2,6 +2,9 @@
 
 Learning<br>
 
+* [https://blog.algomaster.io/p/30-system-design-concepts](https://blog.algomaster.io/p/30-system-design-concepts)
+* [https://blog.algomaster.io/t/system-design](https://blog.algomaster.io/t/system-design)
+* [System Design Prerequisite](https://youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-\&si=WradjhF2BJjsdWHB)
 * [https://www.hellointerview.com/dashboard](https://www.hellointerview.com/dashboard) (Learn and Practice)
 * [https://algomaster.io/learn/system-design/what-is-system-design](https://algomaster.io/learn/system-design/what-is-system-design)
 * [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
@@ -17,7 +20,6 @@ Learning<br>
 Paid Resources<br>
 
 * [https://www.designgurus.io/profile/purchases](https://www.designgurus.io/profile/purchases)
-* [System Design Prerequisite](https://youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-\&si=WradjhF2BJjsdWHB)
 * [https://arpitbhayani.me/system-design-for-beginners/](https://arpitbhayani.me/system-design-for-beginners/)
 * [https://arpitbhayani.me/masterclass](https://arpitbhayani.me/masterclass)
 * [https://www.tryexponent.com/courses/system-design-interviews](https://www.tryexponent.com/courses/system-design-interviews)
